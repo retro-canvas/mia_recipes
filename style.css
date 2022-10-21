@@ -69,3 +69,8 @@ body {
   a:active {
     text-decoration: underline;
   }
+
+  #logo {
+    width: 15%;
+    height: 10%;
+  }
